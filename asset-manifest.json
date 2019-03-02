@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.0d5c253b.chunk.css",
-  "main.js": "/static/js/main.78fea0ad.chunk.js",
-  "main.js.map": "/static/js/main.78fea0ad.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.7e750a26.chunk.js": "/static/js/2.7e750a26.chunk.js",
-  "static/js/2.7e750a26.chunk.js.map": "/static/js/2.7e750a26.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.daffe2532529d942ca50bf839c101fe3.js": "/precache-manifest.daffe2532529d942ca50bf839c101fe3.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.0d5c253b.chunk.css.map": "/static/css/main.0d5c253b.chunk.css.map"
+  "main.css": "/manage-state-with-mobx-demo/static/css/main.0d5c253b.chunk.css",
+  "main.js": "/manage-state-with-mobx-demo/static/js/main.1b1e13e5.chunk.js",
+  "main.js.map": "/manage-state-with-mobx-demo/static/js/main.1b1e13e5.chunk.js.map",
+  "runtime~main.js": "/manage-state-with-mobx-demo/static/js/runtime~main.e5646b46.js",
+  "runtime~main.js.map": "/manage-state-with-mobx-demo/static/js/runtime~main.e5646b46.js.map",
+  "static/js/2.b1215a02.chunk.js": "/manage-state-with-mobx-demo/static/js/2.b1215a02.chunk.js",
+  "static/js/2.b1215a02.chunk.js.map": "/manage-state-with-mobx-demo/static/js/2.b1215a02.chunk.js.map",
+  "index.html": "/manage-state-with-mobx-demo/index.html",
+  "precache-manifest.a36394075faafad65c1f66bb879e9a93.js": "/manage-state-with-mobx-demo/precache-manifest.a36394075faafad65c1f66bb879e9a93.js",
+  "service-worker.js": "/manage-state-with-mobx-demo/service-worker.js",
+  "static/css/main.0d5c253b.chunk.css.map": "/manage-state-with-mobx-demo/static/css/main.0d5c253b.chunk.css.map"
 }
